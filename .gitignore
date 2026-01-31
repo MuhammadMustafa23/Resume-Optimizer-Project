@@ -1,0 +1,89 @@
+﻿# =========================
+# Operating System Files
+# =========================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# =========================
+# IDE and Editor Files
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-*
+
+# =========================
+# Node.js
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+lerna-debug.log*
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# =========================
+# Build Outputs
+# =========================
+dist/
+build/
+.next/
+out/
+.nuxt/
+
+# =========================
+# Logs and databases
+# =========================
+*.log
+*.sqlite3
+*.db
+
+# =========================
+# Large files that exceed GitHub limits
+# =========================
+*.node
+*.exe
+*.dll
+*.so
+*.dylib
+*.bin
+*.dat
+
+# =========================
+# Project Specific
+# =========================
+backend/node_modules/
+frontend/node_modules/
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
