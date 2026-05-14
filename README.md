@@ -12,6 +12,16 @@ An AI-powered resume analysis tool that matches your resume against job descript
 - Session history saved locally
 - User accounts via Supabase (optional)
 
+![Main Analyzer](Resume/an.png)
+
+![Overview](Resume/overview.png)
+
+![Keyword Matching](Resume/key.png)
+
+![Visual Representation](Resume/chart.png)
+
+![Export Functionality](Resume/export.png)
+
 ## Tech Stack
 
 | Layer    | Tech                                      |
